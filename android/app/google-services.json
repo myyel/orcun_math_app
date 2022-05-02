@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "768449268015",
+    "project_id": "orcunmathapp",
+    "storage_bucket": "orcunmathapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768449268015:android:4632718e272aef6d33b9da",
+        "android_client_info": {
+          "package_name": "com.myyel.orcun_math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768449268015-ti344d4u0fii07jr8kj0ccbehls9s102.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myyel.orcun_math",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "768449268015-9gi3m2vustnqh8f8hbk6h9ddu52lnr9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7KGMkGxYKry7E4HrKwjE_-MjfSDI40o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768449268015-9gi3m2vustnqh8f8hbk6h9ddu52lnr9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
